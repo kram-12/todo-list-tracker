@@ -99,8 +99,8 @@ You can:
 
 > *(Add screenshots here)*
 
-![Home Page](./assets/home.png)
-![Task Completed](./assets/completed.png)
+![Picture_1](./pic1.png)
+![Picture_2](./pic2.png)
 
 ---
 
